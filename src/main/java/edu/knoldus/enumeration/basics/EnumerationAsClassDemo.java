@@ -1,4 +1,4 @@
-package edu.knoldus.enumeration;
+package edu.knoldus.enumeration.basics;
 
 enum Rose {
     RED(true), BLACK(false), WHITE(true), PINK(true), BROWN(false);

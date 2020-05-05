@@ -1,4 +1,4 @@
-package edu.knoldus.enumeration;
+package edu.knoldus.enumeration.basics;
 
 enum BoardMaterial {WHITE, BLACK, SHEET}
 
