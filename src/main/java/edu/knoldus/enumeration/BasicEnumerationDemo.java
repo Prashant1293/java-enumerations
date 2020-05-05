@@ -63,7 +63,7 @@ public class BasicEnumerationDemo {
         BoardMaterial bm4 = BoardMaterial.WHITE;
         BoardMaterial2 bm5 = BoardMaterial2.BLACK;
         
-        System.out.println("Comparing bm1 with bm2, we get = " + bm1.compareTo(bm2));
+        System.out.println("Comparing bm2 with bm1, we get = " + bm2.compareTo(bm1));
         System.out.println("Comparing bm2 with bm3, we get = " + bm2.compareTo(bm3));
         System.out.println("Comparing bm1 with bm4, we get = " + bm1.compareTo(bm4));
         // enumeration instance only of the same type can be compared using compareTo().
